@@ -48,6 +48,7 @@ public static void main(String[] args) {
 	int subResult=ar.sub(100, 45);
 	int mulResult=ar.mul(sumResult, subResult);
 	ar.divide(mulResult);
+	System.out.println("Changes to be Committed");
 	
 	
 
